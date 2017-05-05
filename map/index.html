@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>svgmap</title>
+    <link href="basestyle.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+    <div id="header">
+    </div>
+    <img src="floormap.svg" id="map">
+    <div id="pool">
+        <a href="./each/pool.html"> プール</a> </div>
+    <div id="train">
+        <a href="./each/pool.html"> トレーニングルーム</a> </div>
+    <div id="footer"></div>
+    <script>
+let svg = document.getElementById('map'),
+    height = 0,
+    width = 0,
+    arrayX = [],
+    arrayY = [];
+document.body.addEventListener("click", function(e) {
+    // マウス位置を取得する
+    let mouseX = e.pageX, // X座標
+        mouseY = e.pageY; // Y座標
+    arrayX.push(mouseX);
+    arrayY.push(mouseY);
+    console.log(Math.sqrt(Math.pow(arrayX[arrayX.length - 1] - arrayX[arrayX.length - 2], 2) + Math.pow(arrayY[arrayY.length - 1] - arrayY[arrayY.length - 2], 2)))
+    console.log(mouseX, mouseY)
+});
+    </script>
+</body>
+
+</html>

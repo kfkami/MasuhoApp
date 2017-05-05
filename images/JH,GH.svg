@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="264.73383mm"
+   height="151.74611mm"
+   viewBox="0 0 750.42727 430.14533"
+   version="1.2"
+   id="svg186"
+   sodipodi:docname="JH,GH.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata190">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Qt SVG Document</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     id="namedview188"
+     showgrid="false"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
+     inkscape:zoom="0.70388055"
+     inkscape:cx="177.27848"
+     inkscape:cy="358.55329"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g184" />
+  <title
+     id="title2">Qt SVG Document</title>
+  <desc
+     id="desc4">Generated with Qt</desc>
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1025">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.75000072;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="rect1027"
+         width="342.061"
+         height="216.23679"
+         x="34.967556"
+         y="256.28531" />
+    </clipPath>
+  </defs>
+  <g
+     id="g184"
+     transform="translate(25.682677,-48.787311)"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+    <g
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g12"
+       style="font-style:normal;font-weight:400;font-size:9px;font-family:'MS UI Gothic';fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+    <g
+       stroke-miterlimit="2"
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g14"
+       style="font-style:normal;font-weight:400;font-size:9px;font-family:'MS UI Gothic';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1" />
+    <g
+       stroke-miterlimit="2"
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g16"
+       style="font-style:normal;font-weight:400;font-size:9px;font-family:'MS UI Gothic';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1" />
+    <g
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g20"
+       style="font-style:normal;font-weight:400;font-size:9px;font-family:'MS UI Gothic';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+       transform="matrix(2.0499819,0,0,2.0499819,-45.334544,-473.10819)">
+      <polyline
+         points="88.8076,448.012 88.8076,376.233 43.6765,376.233 43.6765,448.012 88.8076,448.012 "
+         id="polyline18"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+    </g>
+    <g
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g46"
+       style="font-style:normal;font-weight:400;font-size:9px;font-family:'MS UI Gothic';fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+       transform="matrix(2.0499819,0,0,2.0499819,-45.334544,-473.10819)">
+      <polyline
+         points="68.5656,376.233 68.5656,448.012 "
+         id="polyline22"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="43.6765,393.965 62.1259,393.965 "
+         id="polyline24"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="43.6765,429.304 62.1433,429.304 "
+         id="polyline26"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="43.6765,384.937 62.1215,384.937 "
+         id="polyline28"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="88.8076,411.639 68.5656,411.639 "
+         id="polyline30"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="62.1482,439.343 43.6765,439.343 "
+         id="polyline32"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="68.5656,429.304 88.8076,429.304 "
+         id="polyline34"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="62.1482,439.343 62.1433,429.304 "
+         id="polyline36"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="68.5656,393.965 88.8076,393.965 "
+         id="polyline38"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="62.1215,384.937 62.1172,376.233 "
+         id="polyline40"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="62.1346,411.639 62.1259,393.965 "
+         id="polyline42"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="62.1346,411.639 43.6765,411.639 "
+         id="polyline44"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+    </g>
+    <g
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g50"
+       style="font-style:normal;font-weight:400;font-size:9px;font-family:'MS UI Gothic';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+       transform="matrix(2.0499819,0,0,2.0499819,-45.334544,-473.10819)">
+      <polyline
+         points="146.737,395.289 146.737,323.51 101.606,323.51 101.606,395.289 146.737,395.289 "
+         id="polyline48"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+    </g>
+    <g
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g76"
+       style="font-style:normal;font-weight:400;font-size:9px;font-family:'MS UI Gothic';fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+       transform="matrix(2.0499819,0,0,2.0499819,-45.334544,-473.10819)">
+      <polyline
+         points="126.403,311.32 126.495,395.289 "
+         id="polyline52"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="120.077,386.62 101.606,386.62 "
+         id="polyline54"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="126.495,376.581 146.737,376.581 "
+         id="polyline56"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="101.606,376.581 120.073,376.581 "
+         id="polyline58"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="101.606,332.215 120.051,332.215 "
+         id="polyline60"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="126.495,341.242 146.737,341.242 "
+         id="polyline62"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="101.606,341.242 120.055,341.242 "
+         id="polyline64"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="120.051,332.215 120.169,310.786 "
+         id="polyline66"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="120.064,358.916 120.055,341.242 "
+         id="polyline68"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="120.077,386.62 120.073,376.581 "
+         id="polyline70"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="120.064,358.916 101.606,358.916 "
+         id="polyline72"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="146.737,358.916 126.495,358.916 "
+         id="polyline74"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+    </g>
+    <g
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g80"
+       style="font-style:normal;font-weight:400;font-size:9px;font-family:'MS UI Gothic';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+       transform="matrix(2.0499819,0,0,2.0499819,-45.334544,-473.10819)">
+      <polyline
+         points="204.619,340.692 204.619,268.913 159.488,268.913 159.488,340.692 204.619,340.692 "
+         id="polyline78"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+    </g>
+    <g
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g120"
+       style="font-style:normal;font-weight:400;font-size:9px;font-family:'MS UI Gothic';fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+       transform="matrix(2.0499819,0,0,2.0499819,-45.334544,-473.10819)">
+      <polyline
+         points="184.377,268.913 184.377,340.692 "
+         id="polyline82"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="177.96,332.023 159.488,332.023 "
+         id="polyline84"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="184.377,321.984 204.619,321.984 "
+         id="polyline86"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="159.488,321.984 177.955,321.984 "
+         id="polyline88"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="159.488,277.617 177.933,277.617 "
+         id="polyline90"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="184.377,286.645 204.619,286.645 "
+         id="polyline92"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="159.488,286.645 177.937,286.645 "
+         id="polyline94"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="177.933,277.617 177.929,268.913 "
+         id="polyline96"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="177.946,304.319 177.937,286.645 "
+         id="polyline98"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="177.96,332.023 177.955,321.984 "
+         id="polyline100"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="177.946,304.319 159.488,304.319 "
+         id="polyline102"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="204.619,304.319 184.377,304.319 "
+         id="polyline104"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="234.519,450.087 234.519,378.242 187.898,378.242 187.898,450.087 234.519,450.087 "
+         id="polyline106"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="187.898,404.237 204.486,402.562 219.003,402.562 234.519,404.026 "
+         id="polyline108"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="214.639,402.562 214.639,378.242 "
+         id="polyline110"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="196.024,403.417 196.024,386.675 "
+         id="polyline112"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="218.987,402.562 218.987,396.957 199.837,396.957 199.837,403.032 "
+         id="polyline114"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="202.552,378.242 202.552,385.009 208.651,385.009 208.651,378.242 "
+         id="polyline116"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="187.898,386.675 196.024,386.675 "
+         id="polyline118"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+    </g>
+    <g
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g124"
+       style="font-style:normal;font-weight:400;font-size:9px;font-family:'MS UI Gothic';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+       transform="matrix(2.0499819,0,0,2.0499819,-45.334544,-473.10819)">
+      <polyline
+         points="298.276,403.645 298.276,331.104 251.656,331.104 251.656,403.645 298.276,403.645 "
+         id="polyline122"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+    </g>
+    <g
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g144"
+       style="font-style:normal;font-weight:400;font-size:9px;font-family:'MS UI Gothic';fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+       transform="matrix(2.0499819,0,0,2.0499819,-45.334544,-473.10819)">
+      <polyline
+         points="298.276,355.284 279.08,355.284 "
+         id="polyline126"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="279.08,331.104 279.08,403.645 "
+         id="polyline128"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="271.73,355.284 271.73,403.645 "
+         id="polyline130"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="251.656,340.491 260.286,340.491 260.286,352.292 251.656,352.292 "
+         id="polyline132"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="266.389,331.104 266.389,338.225 272.179,338.225 272.179,331.104 "
+         id="polyline134"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="251.656,367.701 271.73,367.701 "
+         id="polyline136"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="251.656,379.732 271.73,379.732 "
+         id="polyline138"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="271.73,355.284 251.656,355.284 "
+         id="polyline140"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="279.08,379.732 298.276,379.732 "
+         id="polyline142"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+    </g>
+    <g
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g148"
+       style="font-style:normal;font-weight:400;font-size:9px;font-family:'MS UI Gothic';fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+       transform="matrix(2.0499819,0,0,2.0499819,-45.334544,-473.10819)">
+      <polyline
+         points="361.324,354.821 361.324,282.281 314.703,282.281 314.703,354.821 361.324,354.821 "
+         id="polyline146"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+    </g>
+    <g
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g170"
+       style="font-style:normal;font-weight:400;font-size:9px;font-family:'MS UI Gothic';fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+       transform="matrix(2.0499819,0,0,2.0499819,-45.334544,-473.10819)">
+      <polyline
+         points="342.127,282.281 342.127,354.821 "
+         id="polyline150"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="329.436,282.281 329.436,289.402 335.226,289.402 335.226,282.281 "
+         id="polyline152"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="314.703,291.668 323.333,291.668 323.333,303.469 314.703,303.469 "
+         id="polyline154"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="334.777,306.461 314.703,306.461 "
+         id="polyline156"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="361.324,306.461 342.127,306.461 "
+         id="polyline158"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="314.703,318.877 334.777,318.877 "
+         id="polyline160"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="342.127,330.908 361.324,330.908 "
+         id="polyline162"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="314.703,330.908 334.777,330.908 "
+         id="polyline164"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="334.777,306.461 334.777,354.821 "
+         id="polyline166"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+      <polyline
+         points="334.777,342.049 314.703,342.049 "
+         id="polyline168"
+         style="vector-effect:non-scaling-stroke;fill:none" />
+    </g>
+    <g
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g172"
+       style="font-style:normal;font-weight:400;font-size:9px;font-family:'MS UI Gothic';fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+    <g
+       stroke-miterlimit="2"
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g174"
+       style="font-style:normal;font-weight:400;font-size:9px;font-family:'MS UI Gothic';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1" />
+    <g
+       stroke-miterlimit="2"
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g176"
+       style="font-style:normal;font-weight:400;font-size:9px;font-family:'MS UI Gothic';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2;stroke-opacity:1" />
+    <g
+       font-size="9"
+       font-weight="400"
+       font-style="normal"
+       id="g182"
+       style="font-style:normal;font-weight:400;font-size:9px;font-family:'MS UI Gothic';fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+  </g>
+  <rect
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect194"
+     width="23.441498"
+     height="35.162247"
+     x="28.346483"
+     y="352.37344"
+     ry="6.7236733" />
+</svg>
